@@ -1,7 +1,7 @@
 terraform {
     backend "s3" {
-        bucket = "dev-mvmamazon.com"
+        bucket = "jenkins-tasks"
         key = "terraform_vpc/us-east-1/class/dev/infrastructure.tfstate"
-        region = "us-east-2"
+        region = "us-east-1"
     }
 }
