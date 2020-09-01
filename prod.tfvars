@@ -5,10 +5,10 @@ s3_folder_type = "class"
 s3_tfstate_file = "infrastructure.tfstate"
 environment = "prod"
 
-region   = "us-east-3"
-az1      = "us-east-1a"
-az2      = "us-east-1b"
-az3      = "us-east-1c"
+region   = "us-west-2"
+az1      = "us-west-2a"
+az2      = "us-west-2b"
+az3      = "us-west-2c"
 
 vpc_cidr_block  = "172.34.0.0/16"
 
