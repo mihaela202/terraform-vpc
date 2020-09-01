@@ -3,7 +3,7 @@ s3_folder_project = "terraform_vpc"
 s3_folder_region = "us-east-1"
 s3_folder_type = "class"
 s3_tfstate_file = "infrastructure.tfstate"
-environment = "dev"
+environment = "qa"
 
 region   = "us-east-2"
 az1      = "us-east-1a"
