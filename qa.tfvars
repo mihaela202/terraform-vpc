@@ -6,9 +6,9 @@ s3_tfstate_file = "infrastructure.tfstate"
 environment = "qa"
 
 region   = "us-east-2"
-az1      = "us-east-1a"
-az2      = "us-east-1b"
-az3      = "us-east-1c"
+az1      = "us-east-2a"
+az2      = "us-east-2b"
+az3      = "us-east-2c"
 
 vpc_cidr_block  = "172.33.0.0/16"
 
